@@ -4,6 +4,6 @@ int main(){
 	printf("enter a and b values");
 	scanf("%d%d",&a,&b);
 	result=a+b;
-	printf("addition of two numbers",result);
+	printf("addition of numbers",result);
 	return 0;
 }
